@@ -1,4 +1,4 @@
-# 라면과 냉면을 좋아하는 개발자 노근영입니다.
+# 알고 넘어가야 직성이 풀리는 개발자 노근영입니다.
 
 # :muscle:study in...:muscle:
   <div align=center>
